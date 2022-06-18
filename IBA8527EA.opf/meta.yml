@@ -1,0 +1,36 @@
+id: IBA8527EA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:21:48.870727'
+last_modified: '2022-06-18T22:21:48.870741'
+parser: null
+source_metadata:
+  title: Sakya Genealogy by Bhikṣu Ratnabhadra
+  author: དགེ་སློང་རཏྣ་བྷ་དྲ།
+  description: 'Digital version 1.0 {Wylie}; master xml (completed: 2018-09-28); incomplete!,
+    revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:ཚེ་རིང་གྲོང་ཤར། (td)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2449
+  bases:
+    bbc6:
+      title: Sakya Genealogy by Bhikṣu Ratnabhadra
+      order: 1
+      base_file: bbc6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
